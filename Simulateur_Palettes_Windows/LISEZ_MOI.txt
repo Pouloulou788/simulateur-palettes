@@ -1,0 +1,12 @@
+SIMULATEUR DE RENTABILITE - WINDOWS
+
+1. Faites un clic droit sur le fichier ZIP et choisissez « Extraire tout ».
+2. Ouvrez le dossier extrait.
+3. Double-cliquez sur index.html (ou OUVRIR_LE_SIMULATEUR.bat).
+4. Le simulateur s'ouvre dans votre navigateur (Edge, Chrome, Firefox).
+
+Il fonctionne hors connexion et ne necessite aucune installation.
+Le bouton « Enregistrer les parametres » conserve vos valeurs dans le navigateur utilise.
+Le bouton « Imprimer / PDF » permet de sauvegarder les resultats.
+
+Attention : ce simulateur donne une estimation, pas une garantie de benefice.
